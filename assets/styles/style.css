@@ -81,6 +81,7 @@ body {
 	font-size: 14px;
 	font-weight: 400;
 	text-decoration: none;
+	color: #4285f4;
 }
 .signInMessage:hover {
 	text-decoration: underline;
